@@ -1,2 +1,2 @@
 # FaceRecognition
-Face recognition and imageclassification with OpenCV
+Face recognition and image classification with OpenCV
